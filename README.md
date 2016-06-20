@@ -1,3 +1,3 @@
 # hello_github
 根据教程来添加的github工程
-创建了一个branch
+新添加v1.0描述
